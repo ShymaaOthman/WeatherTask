@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "773996324456",
+    "firebase_url": "https://weathertask-349ac.firebaseio.com",
+    "project_id": "weathertask-349ac",
+    "storage_bucket": "weathertask-349ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773996324456:android:602f5238b8f44a17",
+        "android_client_info": {
+          "package_name": "com.shymaaothman.weathertask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773996324456-taoq1bssikmo59ss245imhdfl7nc66o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCae0E3jeaVg1pIiGAo8ETMC0upJeSUVt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
